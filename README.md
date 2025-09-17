@@ -70,6 +70,6 @@ I combine technical skills in programming, system analysis, and cybersecurity wi
 ---
 
 ## Contact
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- Email: jadesola.nm@gmail.com 
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/naimah-muhammed-7b576231a/)  
 - GitHub: [github.com/yourusername](https://github.com/yourusername)  
