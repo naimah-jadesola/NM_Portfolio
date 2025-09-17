@@ -71,5 +71,5 @@ I combine technical skills in programming, system analysis, and cybersecurity wi
 
 ## Contact
 - Email: jadesola.nm@gmail.com 
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/naimah-muhammed-7b576231a/)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- LinkedIn: [linkedin.com/naimahjm](https://www.linkedin.com/in/naimah-muhammed-7b576231a/)  
+- GitHub: [github.com/naimah-jadesola](https://github.com/naimah-jadesola)  
