@@ -1,7 +1,7 @@
-# Neemah Meemah – Cybersecurity & CIS Portfolio
+# Naimah Muhammed's  Cybersecurity & CIS Portfolio
 
 Welcome to my professional portfolio.  
-I’m a Computer Information Systems major at Howard University with a concentration in Cybersecurity. I’m passionate about using technology to protect people, data, and systems — and ensuring innovation is ethical, inclusive, and impactful.
+I’m a Computer Information Systems major at Howard University with a concentration in Cybersecurity. I’m passionate about using technology to protect people, data, and systems! While ensuring innovation is ethical, inclusive, and impactful.
 
 ---
 
