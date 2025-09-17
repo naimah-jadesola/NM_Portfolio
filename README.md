@@ -15,6 +15,7 @@ I combine technical skills in programming, system analysis, and cybersecurity wi
 |---------------|------------|-------|
 | Google Cybersecurity Certificate | Aug 2025 | ![Google Cert](certifications/google-cert.png) |
 | CompTIA Security+ (In Progress) | Expected 2025 | - |
+| Microsoft Office Specialist: Excel Associate | Expected 2025 | - |
 
 ---
 
@@ -32,37 +33,28 @@ I combine technical skills in programming, system analysis, and cybersecurity wi
 - Skills Used: Python scripting, file handling, automation.
 - Outcome: Reduced manual work and increased processing accuracy.
 
-### 3. Incident Handler’s Journal (Initial & Final)
-![Incident Journal Screenshot](projects/incident-journal.png)
-- Objective: Documented the lifecycle of a security incident, from identification to resolution.
-- Skills Used: Incident triage, evidence documentation, communication.
-- Outcome: Produced a comprehensive incident handler’s journal.
-
-### 4. Analyze a Vulnerable System for a Small Business
-![Vulnerability Analysis Screenshot](projects/vulnerability-analysis.png)
-- Objective: Assessed vulnerabilities in a simulated small business system.
-- Skills Used: Vulnerability scanning, report writing, risk prioritization.
-- Outcome: Delivered recommendations to mitigate identified weaknesses.
-
-### 5. Use Linux Commands to Manage File Permissions
+### 3. Use Linux Commands to Manage File Permissions
 ![Linux Permissions Screenshot](projects/linux-permissions.png)
 - Objective: Applied and managed file permissions for different user groups in Linux.
 - Skills Used: Linux CLI, chmod, chown.
 - Outcome: Improved file access security and reduced unauthorized access risk.
 
-### 6. Apply Filters to SQL Queries
+### 4. Apply Filters to SQL Queries
 ![SQL Filters Screenshot](projects/sql-filters.png)
 - Objective: Filtered and retrieved specific datasets using SQL commands.
 - Skills Used: SQL WHERE, AND, OR operators, query optimization.
 - Outcome: Improved data analysis accuracy for security investigations.
 
-### 7. Jollof Appetite – Entrepreneurial Project
+### 5. Jollof Appetite – Entrepreneurial Project
 ![Jollof Appetite Screenshot](projects/jollof-appetite.png)
 - Role: Co-founder & Operations Lead
 - Skills Used: Business operations, pricing strategy, delivery logistics, customer service, financial tracking.
 - Outcome: Served an inclusive customer base with eggless ice cream recipes, maintained profitability for 3 years.
 
----
+### 6. United Airlines Case Competition - Case Study Project
+- Objective: Evaluating market and capacity opportunities. Designing an optimized flight schedule. Developing marketing strategies.
+- Skills Used: Excel, Cost Accounting
+- Outcome:
 
 ## Resume
 [Download My Resume](resume.pdf)
