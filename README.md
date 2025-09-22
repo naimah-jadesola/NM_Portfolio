@@ -53,15 +53,12 @@ I combine technical skills in programming, system analysis, and cybersecurity wi
 
 ### 6. United Airlines Case Competition - Case Study Project
 - Objective: Evaluating market and capacity opportunities. Designing an optimized flight schedule. Developing marketing strategies.
-- Skills Used: Excel, Cost Accounting
-- Outcome:
-
-## Resume
-[Download My Resume](resume.pdf)
+- Skills Used: Excel; Data analysis and Scheduling, Cost Accounting; Profitability Evaluation, Market Research, Strategic Planning, Presentation Development.
+- Outcome: Produced three complete scheduling scenarios. Recommended a final strategy balancing profitability and hub connectivity.
 
 ---
 
 ## Contact
 - Email: jadesola.nm@gmail.com 
 - LinkedIn: [linkedin.com/naimahjm](https://www.linkedin.com/in/naimah-muhammed-7b576231a/)  
-- GitHub: [github.com/naimah-jadesola](https://github.com/naimah-jadesola)  
+ 
