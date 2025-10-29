@@ -22,7 +22,7 @@ I combine technical skills in programming, system analysis, and cybersecurity wi
 ## Projects
 
 ### 1. Security Audit
-![Security Audit Screenshot](projects/BotiumToysSGRAReport.pdf)
+![Security Audit Screenshot](BotiumToysSGRAReport(1).pdf)
 - Objective: Conducted a mock security audit for a simulated organization.
 - Skills Used: Risk assessment, control evaluation, security policy review.
 - Outcome: Produced actionable recommendations to improve the organization’s security posture.
