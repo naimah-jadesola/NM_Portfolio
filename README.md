@@ -22,31 +22,26 @@ I combine technical skills in programming, system analysis, and cybersecurity wi
 ## Projects
 
 ### 1. Security Audit
-![Security Audit Screenshot](BotiumToysSGRAReport(1).pdf)
 - Objective: Conducted a mock security audit for a simulated organization.
 - Skills Used: Risk assessment, control evaluation, security policy review.
 - Outcome: Produced actionable recommendations to improve the organization’s security posture.
 
 ### 2. Update a File Through a Python Algorithm
-![Python Script Screenshot](projects/python-algorithm.png)
 - Objective: Created a Python script to automatically update and manage file data.
 - Skills Used: Python scripting, file handling, automation.
 - Outcome: Reduced manual work and increased processing accuracy.
 
 ### 3. Use Linux Commands to Manage File Permissions
-![Linux Permissions Screenshot](projects/linux-permissions.png)
 - Objective: Applied and managed file permissions for different user groups in Linux.
 - Skills Used: Linux CLI, chmod, chown.
 - Outcome: Improved file access security and reduced unauthorized access risk.
 
 ### 4. Apply Filters to SQL Queries
-![SQL Filters Screenshot](projects/sql-filters.png)
 - Objective: Filtered and retrieved specific datasets using SQL commands.
 - Skills Used: SQL WHERE, AND, OR operators, query optimization.
 - Outcome: Improved data analysis accuracy for security investigations.
 
 ### 5. Jollof Appetite – Entrepreneurial Project
-![Jollof Appetite Screenshot](projects/jollof-appetite.png)
 - Role: Co-founder & Operations Lead
 - Skills Used: Business operations, pricing strategy, delivery logistics, customer service, financial tracking.
 - Outcome: Served an inclusive customer base with eggless ice cream recipes, maintained profitability for 3 years.
