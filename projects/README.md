@@ -13,4 +13,5 @@ This project documents a mock security audit conducted for a simulated retail or
 - Security controls evaluation
 - Cybersecurity documentation
 
-📄 [View Audit Report](projects/BotiumToysSGRAReport.pdf)   
+📄[View Audit Report](Botium%20Toys%20SGRA%20Report.pdf)
+
