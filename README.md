@@ -1,5 +1,5 @@
 # Naimah Muhammed's  Cybersecurity & CIS Portfolio
-##**This portfolio is a work in progress as I continue developing hands-on cybersecurity projects and documentation
+# **This portfolio is a work in progress as I continue developing hands-on cybersecurity projects and documentation
 Welcome to my professional portfolio.  
 I’m a Computer Information Systems major at Howard University with a concentration in Cybersecurity. I’m passionate about using technology to protect people, data, and systems! While ensuring innovation is ethical, inclusive, and impactful.
 
